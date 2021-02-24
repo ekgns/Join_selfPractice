@@ -29,7 +29,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
-        KakaoSDKCommon.initSDK(appKey: "b918a2d8cd4b1407e4d4c4e6dc952777")
+        KakaoSDKCommon.initSDK(appKey: "네이티브 앱 키 넣기")
         return true
     }
 
